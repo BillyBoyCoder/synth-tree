@@ -1,5 +1,10 @@
 # 🌳 Synth Tree
 
+ ## Project Pitch Video
+ 
+ Check out [this video](https://drive.google.com/file/d/13A5w3ryDOooAFYOPGAfJO1XwOVTPpkCo/view?usp=sharing), where I describe my 
+ project and some challenges I faced while building it.
+
 A modern, tree-based learning management system designed for bootcamp students to navigate structured learning paths and track their progress through interactive, hierarchical skill trees.
 
 ## 📚 Table of Contents
